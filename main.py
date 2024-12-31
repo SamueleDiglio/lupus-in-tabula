@@ -1,5 +1,5 @@
 # Import delle classi dal file ruoli
-from ruoli import Villico, Veggente, Lupo, Indemoniato, Protettore, Medium, giocatori_vivi
+from roles import Villico, Veggente, Lupo, Indemoniato, Protettore, Medium, giocatori_vivi
 # Import di diverse librerie utili per il funzionamento del gioco
 import time
 import random
